@@ -1,0 +1,14 @@
+﻿  Buffer.cpp
+  cBall.cpp
+  cBar.cpp
+  cFood.cpp
+  console.cpp
+  Ingame.cpp
+  main.cpp
+C:\Users\Shiro VV\Desktop\18120260-18120261\Source\18120260-18120261\Ingame.cpp(332,12): warning C4309:  'initializing': truncation of constant value
+C:\Users\Shiro VV\Desktop\18120260-18120261\Source\18120260-18120261\main.cpp(3,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 58 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  18120260-18120261.vcxproj -> C:\Users\Shiro VV\Desktop\18120260-18120261\Source\x64\Release\18120260-18120261.exe
